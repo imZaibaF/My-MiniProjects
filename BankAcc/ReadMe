@@ -1,1 +1,17 @@
-Read
+The characteristics of a banking application project are described as follows:
+
+1. Fetching User Cards: Users may easily manage their payment methods and preferences by retrieving their saved cards from inside the program and creating a new user.
+
+2. Running Transactions: The program enables smooth transaction processing, enabling users to carry out a range of financial operations, including transfers, purchases, and payments.
+
+3. Tracking Transaction History: The tool allows users to examine their past transactions, promoting transparency and letting them keep an eye on their account activity and expenditure.
+
+4. Viewing Card Balance: Through the program, users may view their card balances in real time, providing them with the most recent financial data to help them make smarter decisions.
+
+Together, these features simplify, improve user experience, and advance transparency.
+
+>>To run the code:
+cd frontend
+npm install
+npm start
+
